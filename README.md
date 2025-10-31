@@ -9,7 +9,7 @@ This project systematically analyzes policy improvement algorithms in RL, with e
 - **Exploration-Exploitation Tradeoff**: How different methods balance discovering new actions vs exploiting known rewards
 - **Convergence Properties**: Analysis of how quickly policies learn optimal behavior
 - **Hyperparameter Sensitivity**: Study of how parameters like ε affect performance
-- **Environment Adaptation**: How methods perform across different problem types (bandits, MDPs)
+- **Environment Adaptation**: How methods perform across different problem types (N-chain, MDPs)
 - **Theoretical vs Practical Performance**: Comparing analytical guarantees with empirical results
 
 ##  Key Analyses
